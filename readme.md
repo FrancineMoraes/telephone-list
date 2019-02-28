@@ -15,7 +15,7 @@ Lista telefônica de clientes
 
 ## Passo a passo:
 - Clone o projeto <br>
-<code> git clone git@gitlab.com:designio/solum.git </code>
+<code> https://github.com/FrancineMoraes/telephone-list.git </code>
 
 ## Diagrama ER
 [Clique aqui para fazer o download do diagrama-er](./diagrama-er.mwb)
