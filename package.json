@@ -1,0 +1,19 @@
+{
+  "name": "telephone-list",
+  "version": "1.0.0",
+  "description": "Telephone list to administrate contacts of clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancineMoraes/telephone-list.git"
+  },
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/FrancineMoraes/telephone-list/issues"
+  },
+  "homepage": "https://github.com/FrancineMoraes/telephone-list#readme"
+}

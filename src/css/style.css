@@ -1,0 +1,11 @@
+html, body{
+    background-color: #2F4F4F;
+    color: #1C1C1C;
+    font-family: 'calibri';
+}
+
+.button {
+    background-color: #8B4513; 
+    border-color: #8B4513;
+    color: #1C1C1C;
+}
